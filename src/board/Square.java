@@ -14,7 +14,7 @@ public enum Square {
     private final int value;
 
 
-    private Square(int value) {
+     Square(int value) {
         this.value = value;
     }
 
